@@ -1,0 +1,7 @@
+CLASS zcl_gcts_kpr DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  METHODS : first_method.
